@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-oakland",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Oakland Open Data (data.oaklandca.gov) Socrata MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-oakland",
     "gatewaySlug": "data-oakland",
-    "sourceHash": "v1-146e2404edef183d3d31b85cc1ccfb1a5a474e5cd3ac010ad9cf912aeb5b7981",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-ec1cd13f28dd0b3e3887d25eb6cc0ed3098772b618b85bceae658941bed0e541",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
